@@ -1,4 +1,4 @@
-# Capstone API
+# Bike Sharing API
 
 
 In most cases when we are running a business, there are a lot of data stakeholder outside our company. The problem is that we need to provide the access in a way that they will not break our security rules or concerns. One way to solve that is by creating an API for the database. In this project, we will introduce you on how python is used for data transaction management using Flask API. 
@@ -21,15 +21,6 @@ We will later create a simplified version of the API service which handles data 
 - Input new data to database
 - Read specific data from database
 - Get specific insight from data analysis process (ie: best performing stations)
-
-**Scoring Metrics**: 
-
-1. 1 point - Created Flask App
-2. 2 poitns - Created functionality to read or get specific data from the databse
-3. 4 points - Created functionality to input new data into each table for the databases
-4. 3 points - Created static endpoints which return analytical result (must be different from point 2,3)
-5. 3 points - Created dynamic endpoints which return analytical result (must be different from point 2,3,4)
-6. 3 points - Created POST endpoint which receive input data, then utilize it to get analytical result (must be different from point 2,3,4,5)
 
 **Tools**: 
 - **Python** with **Jupyter Notebook**, installed with **required libraries**
