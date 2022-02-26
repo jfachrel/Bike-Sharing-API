@@ -26,4 +26,4 @@ We will later create a simplified version of the API service which handles data 
 - **Python** with **Jupyter Notebook**, installed with **required libraries**
 - **Visual Studio Code (VSCode)**: Recommended for writing application scripts
 - **TablePlus**: Recommended for easy database access and exploration
-- Postman: Optional for easy API testing
+- **Postman**Optional for easy API testing
